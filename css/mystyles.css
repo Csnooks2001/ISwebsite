@@ -1,0 +1,15 @@
+Ul{
+    font-size: 15x;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+body{
+    background-color: darkgray;
+    border: 5 px solid black;
+    margin: 5px;
+    
+}
+header{
+    text-align: center;
+}
